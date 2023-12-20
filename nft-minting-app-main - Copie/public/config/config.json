@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5ae3fad46f65f993233b4340885a6542ea44cef8",
+  "SCAN_LINK": "https://testnet.bscscan.com/token/0x5ae3fad46f65f993233b4340885a6542ea44cef8",
+  "NETWORK": {
+    "NAME": "Binance Smart Chain",
+    "SYMBOL": "tBNB",
+    "ID": 97
+  },
+  "NFT_NAME": "MiniBabyGrok",
+  "SYMBOL": "MiniBabyGrok",
+  "MAX_SUPPLY": 400,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/fr/collection/minibabygrok-7",
+  "SHOW_BACKGROUND": true
+}
